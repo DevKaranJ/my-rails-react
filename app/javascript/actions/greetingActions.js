@@ -1,4 +1,3 @@
-// app/javascript/actions/greetingActions.js
 import axios from 'axios';
 import { setGreeting } from '../reducers/greetingSlice';
 
